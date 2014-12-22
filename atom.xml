@@ -3,44 +3,31 @@
   <title><![CDATA[白色疯车]]></title>
   <subtitle><![CDATA[新的开始]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-12-21T14:03:39.811Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://lockiyang.github.io/"/>
+  <updated>2014-12-22T07:53:19.732Z</updated>
+  <id>http://lockiyang.github.io/</id>
   
   <author>
-    <name><![CDATA[Locki Yang]]></name>
+    <name><![CDATA[Locki]]></name>
     <email><![CDATA[lockiyang@qq.com]]></email>
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[我是中国人]]></title>
-    <link href="http://yoursite.com/2014/12/21/%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA/"/>
-    <id>http://yoursite.com/2014/12/21/我是中国人/</id>
-    <published>2014-12-21T09:44:29.000Z</published>
-    <updated>2014-12-21T09:44:54.000Z</updated>
-    <content type="html"><![CDATA[<h2 id="呵呵">呵呵</h2>
-]]></content>
-    <summary type="html">
-    <![CDATA[<h2 id="呵呵">呵呵</h2>
-]]>
-    </summary>
-    
-  </entry>
-  
-  <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/2014/12/21/hello-world/"/>
-    <id>http://yoursite.com/2014/12/21/hello-world/</id>
+    <link href="http://lockiyang.github.io/2014/12/21/hello-world/"/>
+    <id>http://lockiyang.github.io/2014/12/21/hello-world/</id>
     <published>2014-12-21T09:34:23.000Z</published>
-    <updated>2014-12-21T09:34:23.000Z</updated>
+    <updated>2014-12-21T15:23:55.000Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick_Start">Quick Start</h2>
 <h3 id="Create_a_new_post">Create a new post</h3>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 
 <p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<a id="more"></a>
+
 <h3 id="Run_server">Run server</h3>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
 
@@ -55,7 +42,14 @@
 <p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2>
+<h3 id="Create_a_new_post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+]]>
+    
     </summary>
     
   </entry>
